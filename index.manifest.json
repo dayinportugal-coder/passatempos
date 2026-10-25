@@ -1,0 +1,47 @@
+{
+ "background_color": "#faf9f4",
+ "display": "standalone",
+ "icons": [
+  {
+   "src": "index.144x144.png",
+   "sizes": "144x144",
+   "type": "image/png"
+  },
+  {
+   "src": "index.180x180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "index.192x192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "index.512x512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "index.512x512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "name": "Passatempos PT",
+ "orientation": "portrait",
+ "start_url": "./index.html",
+ "id": "./",
+ "short_name": "Passatempos",
+ "description": "Passatempos PT – palavras cruzadas, sopa de letras e sudoku em português de Portugal. Grátis, sem anúncios, funciona offline.",
+ "lang": "pt-PT",
+ "scope": "./",
+ "theme_color": "#faf9f4",
+ "categories": [
+  "games",
+  "puzzle"
+ ]
+}
