@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = 'web-48ab1998a2';
+const CACHE_VERSION = 'web-fd4e665616';
 /** @type {string} */
 const CACHE_PREFIX = 'Passatempos PT-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
